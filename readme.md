@@ -21,9 +21,9 @@ The ```Editors``` table created by:
   - ```Family```
   - ```National_Number```
   - ```Nationality```
-  - ```Date_Of_Brith```\
+  - ```Date_Of_Birth```\
   The output will be a table like this:
-    | Id | Name | Falmily | National_Number | Nationality | Date_Of_Brith |
+    | Id | Name | Falmily | National_Number | Nationality | Date_Of_Birth |
     |:--:|:----:|:-------:|:---------------:|:-----------:|:-------------:|
     | 1 | Ali | Rezaei | 6300256897 | Iran | 5/12/2000 |
 - ```Languages```\
@@ -39,9 +39,9 @@ The ```Authors``` table created by:
   - ```Family```
   - ```National_Number```
   - ```Nationality```
-  - ```Date_Of_Brith```
+  - ```Date_Of_Birth```
   The output will be a table like this:
-    | Id | Name | Falmily | National_Number | Nationality | Date_Of_Brith |
+    | Id | Name | Falmily | National_Number | Nationality | Date_Of_Birth |
     |:--:|:----:|:-------:|:---------------:|:-----------:|:-------------:|
     | 1 | Peyman | Ghasem Khani | 6300876312 | Iran | 1/25/2007 |
 - ```Publishers```\
@@ -59,9 +59,9 @@ The ```Translators``` table created by:
   - ```Family```
   - ```National_Number```
   - ```Nationality```
-  - ```Date_Of_Brith```
+  - ```Date_Of_Birth```
   The output will be a table like this:
-    | Id | Name | Falmily | National_Number | Nationality | Date_Of_Brith |
+    | Id | Name | Falmily | National_Number | Nationality | Date_Of_Birth |
     |:--:|:----:|:-------:|:---------------:|:-----------:|:-------------:|
     | 1 | Kian | Rezaei | 6300278456 | Iran | 8/7/1997 |
 - ```ESRB Rating```\
